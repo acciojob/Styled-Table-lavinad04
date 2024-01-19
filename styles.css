@@ -1,7 +1,9 @@
 /* your code */
 #table{
 	border-radius: 10px;
-	border: 1px solid;
+	border: 1px solid white;
+	border-style: inset, hidden; 
+    border-collapse: collapse;
 	width: 800px;
 	height: 160px;
 	font-size: 10px;
