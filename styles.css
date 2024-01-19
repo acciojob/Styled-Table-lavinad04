@@ -1,1 +1,14 @@
 /* your code */
+#table{
+	border-radius: 10px;
+	border: 1px solid;
+	width: 800px;
+}
+
+#head{
+	background-color: rgb(9, 50, 146);
+}
+
+.even{
+	background-color: grey;
+}
