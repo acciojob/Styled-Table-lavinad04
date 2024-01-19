@@ -3,12 +3,22 @@
 	border-radius: 10px;
 	border: 1px solid;
 	width: 800px;
+	height: 160px;
+	font-size: 10px;
 }
 
 #head{
 	background-color: rgb(9, 50, 146);
+	color: white;
+	text-align:left;
+	font-family: Helvetica;
+	height:30px;
+}
+#foot{
+	height:30px;
 }
 
 .even{
 	background-color: grey;
+
 }
